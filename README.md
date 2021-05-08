@@ -7,11 +7,27 @@ Note that data printed in QR code have to be prepared with use of LabelMaster4.0
 
 
 UI
+<img src="lm4.PNG" width=150>
 
 
 
 Sample correct code:
+<img src="qr-codeYES.png" width=250>
 
 
 
+<BR><BR>
 Sample false code:
+<img src="qr-codeNO.png" width=250>
+
+
+<BR>
+Rest of the package:
+https://github.com/PDymala/LabelMaster4Crypto
+https://github.com/PDymala/LabelMaster4MLTraining
+
+
+<BR>
+2D scaning: modification of https://github.com/yuriy-budiyev/code-scanner
+WEKA for Android: https://github.com/andrecamara/weka-android
+ WEKA in general: https://www.cs.waikato.ac.nz/ml/weka/
