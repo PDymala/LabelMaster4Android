@@ -7,7 +7,7 @@ Note that data printed in QR code have to be prepared with use of LabelMaster4.0
 
 
 UI
-<img src="lm4.PNG" width=150>
+<img src="lm4.PNG" width=250>
 
 
 
